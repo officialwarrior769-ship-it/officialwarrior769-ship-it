@@ -21,13 +21,11 @@
 🛠️ Languages & Technologies
 <div align="center">
 
-
-
-
-\
+ \
 </div>
 
 📊 GitHub Statistics
+
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=officialwarrior769-ship-it&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialwarrior769-ship-it&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF" />
