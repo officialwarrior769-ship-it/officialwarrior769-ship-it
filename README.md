@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Hemant Chauhan 👨‍💻
+ # <Center> 👋 Hey, I'm Hemant Chauhan 👨‍💻 </Center>
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Web+Developer;Learning+%7C+Building+%7C+Growing)
 
-🚀 **Aspiring Web Developer | BCA Student | Tech Enthusiast**
+🚀 **Aspiring Web Developer | MSC(IT) Student | Tech Enthusiast**
 
 📍 India 🇮🇳
 
