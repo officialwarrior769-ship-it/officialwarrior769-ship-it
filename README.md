@@ -30,14 +30,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialwarrior769-ship-it&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialwarrior769-ship-it&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=officialwarrior769-ship-it&theme=tokyonight&hide_border=true)
