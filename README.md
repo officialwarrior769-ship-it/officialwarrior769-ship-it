@@ -1,43 +1,57 @@
-👋 Hey, I'm Hemant Chauhan!👨‍💻
-<div align="center">
+# 👋 Hey, I'm Hemant Chauhan 👨‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Web+Developer+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Web+Developer;Learning+%7C+Building+%7C+Growing)
 
-<br/>
-🚀 Aspiring Web Developer | BCA Student | Tech Enthusiast
+🚀 **Aspiring Web Developer | BCA Student | Tech Enthusiast**
 
-📍 India 🇮🇳 
+📍 India 🇮🇳
 
-</div>
+---
 
-💫 About Me
-👨‍💻 Hi, I'm Hemant Chauhan.
-🎓 I'm  Msc(IT) student from India.
-🌱 Currently learning Web Development and Programming.
-💡 Interested in creating modern and creative digital projects.
-🎯 My goal is to become a skilled developer.
-⚡ Believe in learning something new every day.
+## 💫 About Me
 
-🛠️ Languages & Technologies
-<div align="center">
+- 👨‍💻 I'm **Hemant Chauhan**.
+- 🎓 MSC(IT) Student from India.
+- 🌱 Currently learning Web Development and Programming.
+- 💡 Interested in building modern digital projects.
+- 🎯 Goal: Become a skilled developer.
+- ⚡ Believe in learning something new every day.
 
- \
-</div>
+---
 
-📊 GitHub Statistics
+## 🛠️ Languages & Technologies
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=officialwarrior769-ship-it&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialwarrior769-ship-it&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF" />
-<br/>
-<img width="70%" src="https://streak-stats.demolab.com?user=officialwarrior769-ship-it&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
- 🐍 Contribution Activity
-<div align="center">
-</div>
+---
 
-🌐 Connect With Me
-<div align="center">
-</div>
-<div align="center">
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialwarrior769-ship-it&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialwarrior769-ship-it&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=officialwarrior769-ship-it&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/officialwarrior769-ship-it)
+
+---
+
+## 💙 My Motto
+
+**"Dream Big. Code Smart. Build Your Empire."** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=officialwarrior769-ship-it&color=00BFFF&style=for-the-badge)
